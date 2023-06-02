@@ -1,0 +1,21 @@
+
+.logobox {
+    width: auto;
+    position: absolute;
+    left: 17%;
+    top: 24%;
+  }
+
+  .mainlogo1 {
+    position: relative;
+    max-width: 100%;
+    height: auto;
+  }
+  .mainlogo2 {
+    max-width: 100%;
+    height: auto;
+    position: absolute; 
+    left:5%; 
+    top:41%; 
+    width : 90%;
+  }
